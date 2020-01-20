@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1579524852 source:c:\iomote\codeblocks\rs232_c_loopback_windows\loopback_example\rs232.c
+	"rs232.h"
+
+1579268911 c:\iomote\codeblocks\rs232_c_loopback_windows\loopback_example\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1579527874 source:c:\iomote\codeblocks\rs232_c_loopback_windows\loopback_example\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"rs232.h"
+
